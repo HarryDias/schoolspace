@@ -484,11 +484,11 @@ body {
   color: #3498db; /* Blue when clicked */
 }
 
-.card h3 {
+.card-right h3 {
   font-size: 24px;
   font-weight: 700;
   color: #202124; /* Dark text for title */
-  margin-top: 240px; /* Space above title */
+  margin-top: 10px; /* Space above title */
   margin-bottom: 10px; /* Space below title */
 }
 
